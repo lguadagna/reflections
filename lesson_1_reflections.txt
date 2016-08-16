@@ -1,0 +1,4 @@
+diff help: of course it spots the differences
+I already use version control and diff. So just thinking answers here.. 
+git log? this is new to me
+git diff multiple files so that changes together can be tracked!

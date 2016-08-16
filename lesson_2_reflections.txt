@@ -1,0 +1,2 @@
+subl is the command to run sublime editor. This editor is not available on the linux servers.
+git init = adds tracking directory .git 
