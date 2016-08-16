@@ -4,5 +4,9 @@ I like this new editor.
 
 Pull manually because I want control!! hahahah
 
+fork: clone directly onto git hub and give credit to person who created the code
+clone: create a copy in your local directory 
+branch: make a new version of the code 
+
 
 
