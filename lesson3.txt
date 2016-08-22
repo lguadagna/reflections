@@ -8,5 +8,8 @@ fork: clone directly onto git hub and give credit to person who created the code
 clone: create a copy in your local directory 
 branch: make a new version of the code 
 
-
+what is the benefit of having a copy of the last known state of the remote stored locally? 
+1. diff's are much faster
+2. you can work off line. 
+3. you can check the status of the commit before pushing changes
 
