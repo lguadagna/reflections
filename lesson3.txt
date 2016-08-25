@@ -13,3 +13,17 @@ what is the benefit of having a copy of the last known state of the remote store
 2. you can work off line. 
 3. you can check the status of the commit before pushing changes
 
+
+
+git branch different-oil
+git checkout different-oil
+git says => switched to branch 'different-oil'
+git add cake-recipe.txt ( a different version of it ) 
+git commit
+git says => 1 file changed... 
+*** git push origin different-oil 
+git says => counting... etc
+
+How would you collaborate without using git or github? what would be easier and what would be harder? 
+I think we'd check into a source control system and then pull into a different directory and diff the files that way. So in a sense git diff is easier. I have a visual compare tool called beyond compare that does a visual compare of files in directories that is actually way easier than the text based diff from git. 
+
